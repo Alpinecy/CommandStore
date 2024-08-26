@@ -13,4 +13,4 @@ Telegram
 uTorrent
 VLC
 Zoom
-# Приложение можно скачать в Releases.
+# Приложение можно по ссылке https://github.com/Alpinecy/CommandStore/releases/
